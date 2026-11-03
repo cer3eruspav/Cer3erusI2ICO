@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+*.lnk
+ThaiVersion/
+venv/
+
+# Ignore test image outputs
+*.ico
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.tiff
+!cer3erus_i2png_to_ico_fixed.ico
